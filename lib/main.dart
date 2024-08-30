@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
             builder: (context) {
               return  Padding(
                 padding: const EdgeInsets.all(10.0),
-                child: Text(">My name is M Ibad Ullah Qureshi \n age 12",
+                child: Text("> Name :M Ibad Ullah Qureshi \n>age :22 \n>Hobby : Programming \n  ",
                     style:TextStyle(
                       fontSize: 22.0,
                       fontWeight:FontWeight.bold,
